@@ -2,16 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Estudante+de+Tecnologia;Desenvolvedor+Full+Stack;Apaixonado+por+Programa%C3%A7%C3%A3o;De+Juiz+de+Fora+-+MG" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GabrielSilvaVG&label=Visitantes&color=00d4aa&style=flat" alt="Profile views" />
-</div>
-
-## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  
 
-## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaVG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
