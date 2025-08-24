@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transformando%20ideias%20em%20código&descAlignY=55&descSize=18" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=50" />
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSilvaVG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
