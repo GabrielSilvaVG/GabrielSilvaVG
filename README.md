@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Estudante+de+Tecnologia;Desenvolvedor+Full+Stack;Apaixonado+por+Programa%C3%A7%C3%A3o;De+Juiz+de+Fora+-+MG" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transformando%20ideias%20em%20código&descAlignY=55&descSize=18" />
+Mostrar Imagem
+<img src="https://komarev.com/ghpvc/?username=GabrielSilvaVG&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
-
-
-<div align="center">
 
 
 <div align="center">
