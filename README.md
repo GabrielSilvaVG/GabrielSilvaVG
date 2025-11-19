@@ -26,13 +26,16 @@ Atualmente estudo diariamente desenvolvimento back-end e crio projetos próprios
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsilva2004/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GabrielSilvaVG)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielsilva.vg/)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0d1117&height=160&text=Always%20learning.&fontSize=14&fontColor=A9A9A9&fontAlignY=75&animation=none" />
+
+
+
+
+
+
