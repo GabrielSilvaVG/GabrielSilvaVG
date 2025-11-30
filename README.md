@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=C0C0C0&fontAlignY=40&desc=Back-end%20Developer&descSize=20&descAlignY=65&descColor=C0C0C0" />
 
-
-## Sobre mim
-Sou desenvolvedor **Back-end** focado em **C# e .NET**, com experiência em **Java**, **SQL**, construção de **APIs REST**, resolução de problemas e boas práticas de código.  
-Atualmente estudo diariamente desenvolvimento back-end e crio projetos próprios para evoluir minhas habilidades e aprender novas tecnologias.
-
 ---
 
 ## Tecnologias & Ferramentas 
