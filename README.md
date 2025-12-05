@@ -11,14 +11,11 @@
 
   <img height="180em" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=GabrielSilvaVG&layout=compact&langs_count=7&theme=tokyonight"/>
 
-  
 </div>
 
 ---
 
 <div align="center">
-
-## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsilva2004/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielsilva.vg/)
