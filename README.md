@@ -27,7 +27,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0d1117&height=160&text=Always%20learning.&fontSize=14&fontColor=A9A9A9&fontAlignY=75&animation=none" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0d1117&height=160&fontSize=14&fontColor=A9A9A9&fontAlignY=75&animation=none" />
 
 
 
