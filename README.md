@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=C0C0C0&fontAlignY=40&desc=Back-end%20Developer&descSize=20&descAlignY=65&descColor=C0C0C0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Gabriel%20Silva&fontSize=80&fontColor=C0C0C0&fontAlignY=40&descAlignY=65&descColor=C0C0C0" />
 
 ---
 
@@ -7,11 +7,11 @@
 
 ---
 
-## 📊 Estatísticas
-
 <div align="center">
+
+  <img height="180em" src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=GabrielSilvaVG&layout=compact&langs_count=7&theme=tokyonight"/>
+
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSilvaVG&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
